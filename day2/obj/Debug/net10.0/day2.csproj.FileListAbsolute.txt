@@ -1,0 +1,14 @@
+D:\capg\day2\bin\Debug\net10.0\day2.exe
+D:\capg\day2\bin\Debug\net10.0\day2.deps.json
+D:\capg\day2\bin\Debug\net10.0\day2.runtimeconfig.json
+D:\capg\day2\bin\Debug\net10.0\day2.dll
+D:\capg\day2\bin\Debug\net10.0\day2.pdb
+D:\capg\day2\obj\Debug\net10.0\day2.GeneratedMSBuildEditorConfig.editorconfig
+D:\capg\day2\obj\Debug\net10.0\day2.AssemblyInfoInputs.cache
+D:\capg\day2\obj\Debug\net10.0\day2.AssemblyInfo.cs
+D:\capg\day2\obj\Debug\net10.0\day2.csproj.CoreCompileInputs.cache
+D:\capg\day2\obj\Debug\net10.0\day2.dll
+D:\capg\day2\obj\Debug\net10.0\refint\day2.dll
+D:\capg\day2\obj\Debug\net10.0\day2.pdb
+D:\capg\day2\obj\Debug\net10.0\day2.genruntimeconfig.cache
+D:\capg\day2\obj\Debug\net10.0\ref\day2.dll
