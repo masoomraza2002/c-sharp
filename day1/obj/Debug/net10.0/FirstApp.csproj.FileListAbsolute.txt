@@ -1,0 +1,14 @@
+D:\capg\FirstApp\bin\Debug\net10.0\FirstApp.exe
+D:\capg\FirstApp\bin\Debug\net10.0\FirstApp.deps.json
+D:\capg\FirstApp\bin\Debug\net10.0\FirstApp.runtimeconfig.json
+D:\capg\FirstApp\bin\Debug\net10.0\FirstApp.dll
+D:\capg\FirstApp\bin\Debug\net10.0\FirstApp.pdb
+D:\capg\FirstApp\obj\Debug\net10.0\FirstApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\capg\FirstApp\obj\Debug\net10.0\FirstApp.AssemblyInfoInputs.cache
+D:\capg\FirstApp\obj\Debug\net10.0\FirstApp.AssemblyInfo.cs
+D:\capg\FirstApp\obj\Debug\net10.0\FirstApp.csproj.CoreCompileInputs.cache
+D:\capg\FirstApp\obj\Debug\net10.0\FirstApp.dll
+D:\capg\FirstApp\obj\Debug\net10.0\refint\FirstApp.dll
+D:\capg\FirstApp\obj\Debug\net10.0\FirstApp.pdb
+D:\capg\FirstApp\obj\Debug\net10.0\FirstApp.genruntimeconfig.cache
+D:\capg\FirstApp\obj\Debug\net10.0\ref\FirstApp.dll
