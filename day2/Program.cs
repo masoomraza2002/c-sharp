@@ -6,6 +6,7 @@ class Program
     {
         //Table.table();
         //Enemy.enemy();
-        Bank.bank();
+        //Bank.bank();
+        Finance.finance();
     }
 }
