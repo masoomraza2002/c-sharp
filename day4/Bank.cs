@@ -1,6 +1,6 @@
 using System;
 
-class SBI
+class Bank
 {
-    
+
 }
