@@ -1,18 +1,17 @@
-using System;
+//using System;
 
-class Inh{
-    String name;
-    public Inh(String name){
-        this.name = name;
-    }
-}
+//class Inh{
+//    String name;
+//    public Inh(String name){
+//        this.name = name;
+//    }
+//}
 
-class Chi:Inh{
-    String name;
+//class Chi:Inh{
+//    String name;
 
-    Public Chi(name):base(name){
+//    Public Chi(name):base(name){
 
-    }
-    Console.WriteLine("child");
-}
-
+//    }
+//    Console.WriteLine("child");
+//}

@@ -121,7 +121,17 @@ class Main8
         pol.AddPolicy(life);
         pol.AddPolicy(health);
 
+        Console.WriteLine(pol[0].HolderName);
+        Console.WriteLine(pol["neha"].policyNumber);
+
+        Insurance p1 = life;
+        Insurance p2 = health;
+
+        Console.WriteLine("Life prem " + p1.CalPrem());
+        Console.WriteLine("health prem " + p2.CalPrem());
 
 
+        life.ShowPolicy();
+        p1.ShowPolicy();
     }
 }
