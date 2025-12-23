@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\capg\\day3\\day3.csproj",
+      "projectUniqueName": "D:\\capg\\csharp\\day3\\day3.csproj",
       "projectName": "day3",
-      "projectPath": "D:\\capg\\day3\\day3.csproj",
+      "projectPath": "D:\\capg\\csharp\\day3\\day3.csproj",
       "packagesPath": "C:\\Users\\Masoom\\.nuget\\packages\\",
-      "outputPath": "D:\\capg\\day3\\obj\\",
+      "outputPath": "D:\\capg\\csharp\\day3\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

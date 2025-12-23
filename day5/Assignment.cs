@@ -127,17 +127,16 @@ namespace LibraryItemSystem
 
     class Obj
     {
-
         public static void obj()
         {
             ItemAlias.Book book = new ItemAlias.Book("Fire of wings", "Dr. APJ Kalam", 101);
             ItemAlias.Magzine magzine = new ItemAlias.Magzine("3 idiot", "Chetan bhagat", 102);
-            
+
             Console.WriteLine(book.calLateFee(3));
             Console.WriteLine(magzine.calLateFee(3));
 
-            IReverse reserve =  book;
-            INotifiaction notifyy= book;
+            IReverse reserve = book;
+            INotifiaction notifyy = book;
 
             reserve.reverse();
             notifyy.notify("your book ready");
@@ -147,7 +146,7 @@ namespace LibraryItemSystem
                 book,magzine
             };
 
-            foreach(LibraryItem itm in itms)
+            foreach (LibraryItem itm in itms)
             {
                 itm.display();
             }
