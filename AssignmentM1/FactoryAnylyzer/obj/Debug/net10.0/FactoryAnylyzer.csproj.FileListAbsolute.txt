@@ -1,0 +1,15 @@
+D:\capg\AssignmentM1\FactoryAnylyzer\obj\Debug\net10.0\FactoryAnylyzer.GeneratedMSBuildEditorConfig.editorconfig
+D:\capg\AssignmentM1\FactoryAnylyzer\obj\Debug\net10.0\FactoryAnylyzer.AssemblyInfoInputs.cache
+D:\capg\AssignmentM1\FactoryAnylyzer\obj\Debug\net10.0\FactoryAnylyzer.AssemblyInfo.cs
+D:\capg\AssignmentM1\FactoryAnylyzer\obj\Debug\net10.0\FactoryAnylyzer.csproj.CoreCompileInputs.cache
+D:\capg\AssignmentM1\FactoryAnylyzer\obj\Debug\net10.0\FactoryAnylyzer.sourcelink.json
+D:\capg\AssignmentM1\FactoryAnylyzer\bin\Debug\net10.0\FactoryAnylyzer.exe
+D:\capg\AssignmentM1\FactoryAnylyzer\bin\Debug\net10.0\FactoryAnylyzer.deps.json
+D:\capg\AssignmentM1\FactoryAnylyzer\bin\Debug\net10.0\FactoryAnylyzer.runtimeconfig.json
+D:\capg\AssignmentM1\FactoryAnylyzer\bin\Debug\net10.0\FactoryAnylyzer.dll
+D:\capg\AssignmentM1\FactoryAnylyzer\bin\Debug\net10.0\FactoryAnylyzer.pdb
+D:\capg\AssignmentM1\FactoryAnylyzer\obj\Debug\net10.0\FactoryAnylyzer.dll
+D:\capg\AssignmentM1\FactoryAnylyzer\obj\Debug\net10.0\refint\FactoryAnylyzer.dll
+D:\capg\AssignmentM1\FactoryAnylyzer\obj\Debug\net10.0\FactoryAnylyzer.pdb
+D:\capg\AssignmentM1\FactoryAnylyzer\obj\Debug\net10.0\FactoryAnylyzer.genruntimeconfig.cache
+D:\capg\AssignmentM1\FactoryAnylyzer\obj\Debug\net10.0\ref\FactoryAnylyzer.dll
