@@ -3,8 +3,8 @@ using System.Collections.Generic;
 
 struct PriceSnapshot
 {
-    public string stockSymbol;
-    public double price;
+    public string StockSymbol;
+    public double StockPrice;
 }
 
 static class TradeAnalytics
@@ -36,7 +36,7 @@ abstract class Trade
 
     public override string ToString()
     {
-        Console.WriteLine($"TradeID: {tradeId} , Stock symbol: {stockSymbol} , Quantity: {quantity}");
+         return $"TradeID: {tradeId} , Stock symbol: {stockSymbol} , Quantity: {quantity}";
     }
 }
 
@@ -85,7 +85,7 @@ class Main6
 {
     public static void main6()
     {
-        PriceSnapshot ps =  new PriceSnapshot{stockSymbol="TCS IND", price=599.00};
+        PriceSnapshot ps =  new PriceSnapshot{StockSymbol="TCS IND", StockPrice=599.00};
         Console.WriteLine("ps: " + ps.StockSymbol + " @ " + ps.StockPrice);
 
         TradeRepository<EquityTrade> repo = new TradeRepository<EquityTrade>();
@@ -102,8 +102,8 @@ class Main6
         t2.quantity = 5;
         t2.marketPrice = null;
 
-        tr.AddTrade(t1);
-        tr.AddTrade(t2);
+        repo.AddTrade(t1);
+        repo.AddTrade(t2);
 
         foreach(EquityTrade trade in repo.getTrade())
         {
