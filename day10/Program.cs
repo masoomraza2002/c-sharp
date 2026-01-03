@@ -4,6 +4,7 @@ class Program
 {
     public static void Main()
     {
-        Reg.reg();
+        // Reg.reg();
+        LogProcessing.Main1.main1();
     }
 }

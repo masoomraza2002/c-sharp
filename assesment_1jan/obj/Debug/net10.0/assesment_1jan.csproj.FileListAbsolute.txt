@@ -1,0 +1,15 @@
+D:\capg\csharp\assesment_1jan\obj\Debug\net10.0\assesment_1jan.GeneratedMSBuildEditorConfig.editorconfig
+D:\capg\csharp\assesment_1jan\obj\Debug\net10.0\assesment_1jan.AssemblyInfoInputs.cache
+D:\capg\csharp\assesment_1jan\obj\Debug\net10.0\assesment_1jan.AssemblyInfo.cs
+D:\capg\csharp\assesment_1jan\obj\Debug\net10.0\assesment_1jan.csproj.CoreCompileInputs.cache
+D:\capg\csharp\assesment_1jan\obj\Debug\net10.0\assesment_1jan.sourcelink.json
+D:\capg\csharp\assesment_1jan\bin\Debug\net10.0\assesment_1jan.exe
+D:\capg\csharp\assesment_1jan\bin\Debug\net10.0\assesment_1jan.deps.json
+D:\capg\csharp\assesment_1jan\bin\Debug\net10.0\assesment_1jan.runtimeconfig.json
+D:\capg\csharp\assesment_1jan\bin\Debug\net10.0\assesment_1jan.dll
+D:\capg\csharp\assesment_1jan\bin\Debug\net10.0\assesment_1jan.pdb
+D:\capg\csharp\assesment_1jan\obj\Debug\net10.0\assesment_1jan.dll
+D:\capg\csharp\assesment_1jan\obj\Debug\net10.0\refint\assesment_1jan.dll
+D:\capg\csharp\assesment_1jan\obj\Debug\net10.0\assesment_1jan.pdb
+D:\capg\csharp\assesment_1jan\obj\Debug\net10.0\assesment_1jan.genruntimeconfig.cache
+D:\capg\csharp\assesment_1jan\obj\Debug\net10.0\ref\assesment_1jan.dll

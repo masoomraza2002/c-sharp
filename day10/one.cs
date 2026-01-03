@@ -24,36 +24,54 @@ class Reg
         //  string pattern = @"\\";
         //   string pattern = @"\?";
         // string pattern = @"\^hello";
-        
-
-//grouping 
-        
-        
-        string pattern = @"(?<year>\d{4})-(?<month>\d{2})-(?<date>\d{2})";
-        // string str = "1992-04-24";
-        string str = "24-03-2004";
-
-        Match match = Regex.Match(str, pattern);
-
-        if (match.Success)
-        {
-            Console.WriteLine("Full Match: " + match.Value);
-            Console.WriteLine("Year  : " + match.Groups["year"].Value);
-            Console.WriteLine("Month : " + match.Groups["month"].Value);
-            Console.WriteLine("Date  : " + match.Groups["date"].Value);
-        }
-
-        MatchCollection matches = Regex.Matches(str, pattern);
-
-        foreach (Match m in matches)
-        {
-            Console.WriteLine("Matched: " + m.Value);
-        }
 
         // MatchCollections  m = Regex.Matches(str, pattern);
         // Console.WriteLine(MatchCollection);
         // Console.WriteLine(Regex.IsMatch(str, pattern));
-        
 
+        //grouping 
+
+
+        // string pattern = @"(?<year>\d{4})-(?<month>\d{2})-(?<date>\d{2})";
+        // string str = "1992-04-24";
+        // // string str = "24-03-2004";
+
+        // Match match = Regex.Match(str, pattern);
+
+        // if (match.Success)
+        // {
+        //     Console.WriteLine("Full Match: " + match.Value);
+        //     Console.WriteLine("Year  : " + match.Groups["year"].Value);
+        //     Console.WriteLine("Month : " + match.Groups["month"].Value);
+        //     Console.WriteLine("Date  : " + match.Groups["date"].Value);
+        // }
+
+        // MatchCollection matches = Regex.Matches(str, pattern);
+
+        // foreach (Match m in matches)
+        // {
+        //     Console.WriteLine("Matched: " + m.Value);
+        //     Console.WriteLine(m.Value[0]);
+        // }
+
+
+        // string str = "apple";
+        // string pattern = @"a...e";
+
+        // MatchCollection matches = Regex.Matches(str, pattern);
+
+        // foreach (Match m in matches)
+        // {
+        //     Console.WriteLine("Matched: " + m.Value); 
+        // }
+
+        string pattern = @"\b[\w.-]+@[\w.-]+\.\w{2,}\b";
+        string str = "2002masoom@gmail.com";
+        MatchCollection matches = Regex.Matches(str, pattern);
+
+        foreach (Match m in matches)
+        {
+            Console.WriteLine("Matched: " + m.Value); 
+        }
     }
 }
