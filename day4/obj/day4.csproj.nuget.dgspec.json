@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\capg\\day4\\day4.csproj": {}
+    "D:\\capg\\csharp\\day4\\day4.csproj": {}
   },
   "projects": {
-    "D:\\capg\\day4\\day4.csproj": {
+    "D:\\capg\\csharp\\day4\\day4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\capg\\day4\\day4.csproj",
+        "projectUniqueName": "D:\\capg\\csharp\\day4\\day4.csproj",
         "projectName": "day4",
-        "projectPath": "D:\\capg\\day4\\day4.csproj",
+        "projectPath": "D:\\capg\\csharp\\day4\\day4.csproj",
         "packagesPath": "C:\\Users\\Masoom\\.nuget\\packages\\",
-        "outputPath": "D:\\capg\\day4\\obj\\",
+        "outputPath": "D:\\capg\\csharp\\day4\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

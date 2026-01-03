@@ -1,0 +1,12 @@
+D:\capg\csharp\DigitalWallet\DigitalWallet.Core\bin\Debug\net10.0\DigitalWallet.Core.deps.json
+D:\capg\csharp\DigitalWallet\DigitalWallet.Core\bin\Debug\net10.0\DigitalWallet.Core.dll
+D:\capg\csharp\DigitalWallet\DigitalWallet.Core\bin\Debug\net10.0\DigitalWallet.Core.pdb
+D:\capg\csharp\DigitalWallet\DigitalWallet.Core\obj\Debug\net10.0\DigitalWallet.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\capg\csharp\DigitalWallet\DigitalWallet.Core\obj\Debug\net10.0\DigitalWallet.Core.AssemblyInfoInputs.cache
+D:\capg\csharp\DigitalWallet\DigitalWallet.Core\obj\Debug\net10.0\DigitalWallet.Core.AssemblyInfo.cs
+D:\capg\csharp\DigitalWallet\DigitalWallet.Core\obj\Debug\net10.0\DigitalWallet.Core.csproj.CoreCompileInputs.cache
+D:\capg\csharp\DigitalWallet\DigitalWallet.Core\obj\Debug\net10.0\DigitalWallet.Core.sourcelink.json
+D:\capg\csharp\DigitalWallet\DigitalWallet.Core\obj\Debug\net10.0\DigitalWallet.Core.dll
+D:\capg\csharp\DigitalWallet\DigitalWallet.Core\obj\Debug\net10.0\refint\DigitalWallet.Core.dll
+D:\capg\csharp\DigitalWallet\DigitalWallet.Core\obj\Debug\net10.0\DigitalWallet.Core.pdb
+D:\capg\csharp\DigitalWallet\DigitalWallet.Core\obj\Debug\net10.0\ref\DigitalWallet.Core.dll
