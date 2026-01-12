@@ -1,0 +1,15 @@
+D:\capg\csharp\prac\obj\Debug\net10.0\prac.GeneratedMSBuildEditorConfig.editorconfig
+D:\capg\csharp\prac\obj\Debug\net10.0\prac.AssemblyInfoInputs.cache
+D:\capg\csharp\prac\obj\Debug\net10.0\prac.AssemblyInfo.cs
+D:\capg\csharp\prac\obj\Debug\net10.0\prac.csproj.CoreCompileInputs.cache
+D:\capg\csharp\prac\obj\Debug\net10.0\prac.sourcelink.json
+D:\capg\csharp\prac\bin\Debug\net10.0\prac.exe
+D:\capg\csharp\prac\bin\Debug\net10.0\prac.deps.json
+D:\capg\csharp\prac\bin\Debug\net10.0\prac.runtimeconfig.json
+D:\capg\csharp\prac\bin\Debug\net10.0\prac.dll
+D:\capg\csharp\prac\bin\Debug\net10.0\prac.pdb
+D:\capg\csharp\prac\obj\Debug\net10.0\prac.dll
+D:\capg\csharp\prac\obj\Debug\net10.0\refint\prac.dll
+D:\capg\csharp\prac\obj\Debug\net10.0\prac.pdb
+D:\capg\csharp\prac\obj\Debug\net10.0\prac.genruntimeconfig.cache
+D:\capg\csharp\prac\obj\Debug\net10.0\ref\prac.dll
