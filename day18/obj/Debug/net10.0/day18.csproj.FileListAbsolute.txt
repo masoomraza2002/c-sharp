@@ -1,0 +1,15 @@
+D:\capg\csharp\day18\obj\Debug\net10.0\day18.GeneratedMSBuildEditorConfig.editorconfig
+D:\capg\csharp\day18\obj\Debug\net10.0\day18.AssemblyInfoInputs.cache
+D:\capg\csharp\day18\obj\Debug\net10.0\day18.AssemblyInfo.cs
+D:\capg\csharp\day18\obj\Debug\net10.0\day18.csproj.CoreCompileInputs.cache
+D:\capg\csharp\day18\obj\Debug\net10.0\day18.sourcelink.json
+D:\capg\csharp\day18\bin\Debug\net10.0\day18.exe
+D:\capg\csharp\day18\bin\Debug\net10.0\day18.deps.json
+D:\capg\csharp\day18\bin\Debug\net10.0\day18.runtimeconfig.json
+D:\capg\csharp\day18\bin\Debug\net10.0\day18.dll
+D:\capg\csharp\day18\bin\Debug\net10.0\day18.pdb
+D:\capg\csharp\day18\obj\Debug\net10.0\day18.dll
+D:\capg\csharp\day18\obj\Debug\net10.0\refint\day18.dll
+D:\capg\csharp\day18\obj\Debug\net10.0\day18.pdb
+D:\capg\csharp\day18\obj\Debug\net10.0\day18.genruntimeconfig.cache
+D:\capg\csharp\day18\obj\Debug\net10.0\ref\day18.dll
