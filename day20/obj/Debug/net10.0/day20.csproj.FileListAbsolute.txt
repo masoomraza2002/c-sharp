@@ -1,0 +1,15 @@
+D:\capg\csharp\day20\bin\Debug\net10.0\day20.exe
+D:\capg\csharp\day20\bin\Debug\net10.0\day20.deps.json
+D:\capg\csharp\day20\bin\Debug\net10.0\day20.runtimeconfig.json
+D:\capg\csharp\day20\bin\Debug\net10.0\day20.dll
+D:\capg\csharp\day20\bin\Debug\net10.0\day20.pdb
+D:\capg\csharp\day20\obj\Debug\net10.0\day20.GeneratedMSBuildEditorConfig.editorconfig
+D:\capg\csharp\day20\obj\Debug\net10.0\day20.AssemblyInfoInputs.cache
+D:\capg\csharp\day20\obj\Debug\net10.0\day20.AssemblyInfo.cs
+D:\capg\csharp\day20\obj\Debug\net10.0\day20.csproj.CoreCompileInputs.cache
+D:\capg\csharp\day20\obj\Debug\net10.0\day20.sourcelink.json
+D:\capg\csharp\day20\obj\Debug\net10.0\day20.dll
+D:\capg\csharp\day20\obj\Debug\net10.0\refint\day20.dll
+D:\capg\csharp\day20\obj\Debug\net10.0\day20.pdb
+D:\capg\csharp\day20\obj\Debug\net10.0\day20.genruntimeconfig.cache
+D:\capg\csharp\day20\obj\Debug\net10.0\ref\day20.dll

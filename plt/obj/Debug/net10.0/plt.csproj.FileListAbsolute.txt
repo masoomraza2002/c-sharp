@@ -1,0 +1,15 @@
+D:\capg\csharp\plt\bin\Debug\net10.0\plt.exe
+D:\capg\csharp\plt\bin\Debug\net10.0\plt.deps.json
+D:\capg\csharp\plt\bin\Debug\net10.0\plt.runtimeconfig.json
+D:\capg\csharp\plt\bin\Debug\net10.0\plt.dll
+D:\capg\csharp\plt\bin\Debug\net10.0\plt.pdb
+D:\capg\csharp\plt\obj\Debug\net10.0\plt.GeneratedMSBuildEditorConfig.editorconfig
+D:\capg\csharp\plt\obj\Debug\net10.0\plt.AssemblyInfoInputs.cache
+D:\capg\csharp\plt\obj\Debug\net10.0\plt.AssemblyInfo.cs
+D:\capg\csharp\plt\obj\Debug\net10.0\plt.csproj.CoreCompileInputs.cache
+D:\capg\csharp\plt\obj\Debug\net10.0\plt.sourcelink.json
+D:\capg\csharp\plt\obj\Debug\net10.0\plt.dll
+D:\capg\csharp\plt\obj\Debug\net10.0\refint\plt.dll
+D:\capg\csharp\plt\obj\Debug\net10.0\plt.pdb
+D:\capg\csharp\plt\obj\Debug\net10.0\plt.genruntimeconfig.cache
+D:\capg\csharp\plt\obj\Debug\net10.0\ref\plt.dll
